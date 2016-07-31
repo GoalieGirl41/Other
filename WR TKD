@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=utf-8>
+		<title>Wheat Ridge Taekwondo</title>
+	</head>
+
+	<body>
+		<h1>Wheat Ridge Taekwondo</h1>
+		<nav>
+			<ul>
+				<li><a href=__<!--Insert link to finished pages for different navi pages.--		
+
+					>>Movements</a></li>
+				<li><a href=__>Instructors</a></li>
+				<li><a href=__>TKD in the News!</a></li>
+				<li><a href=__>FAQ</a></li>
+				<li><a href=__>Links</a></li>
+			</ul>
+		</nav>
+		<div>
+			<section>
+				<h2>Tenets of Taekwondo</h2>
+				<h3>Which have you practiced today?</h3>
+					<li>Courtesy</li>
+					<li>Integrity</li>
+					<li>Perserverance</li>
+					<li>Self Control</li>
+					<li>Indomitable Spirit</li>
+			</section>
+		</div>
+		<section>
+			<article>
+				<h2>About Us</h2>
+					<p>Shin's Wheat RIdge COlorado Taekwondo is a traditional Taekwondo in Wheat Ridge, CO. we are affiliated with Shin's Academy in Omaha, Nebraska and we are certified through the World Taekwondo Federation.</p>
+			</article>
+		</section>
+		<h2>Shin's Wheat Ridge Taekwondo Pictures</h2>
+		<figure>
+		  <!--Insert links to the pictures here-->
+		</figure>
+	</body>
+</hmtl>
